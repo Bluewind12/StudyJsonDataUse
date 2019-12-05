@@ -1,5 +1,4 @@
-{
-  "sample_human_data": [
+[
     {
       "name": "Andy",
       "age": 31,
@@ -30,5 +29,4 @@
       "gender": true,
       "other": "Grand"
     }
-  ]
-}
+]
